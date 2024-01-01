@@ -20,12 +20,15 @@ nav{
 nav ul{
     display: flex;
     justify-content: center;
+   
+    
     
     
 }
 nav ul li{
     list-style: none;
     margin: 0 23px;
+
 
 }
 .left{
@@ -37,7 +40,7 @@ nav ul li{
     justify-content: space-around;
     margin: 120px 0;
     align-items: center;
-    
+
 }
 .firstsection > div{
   width: 30%;
@@ -79,9 +82,9 @@ nav ul li a:hover{
     
 }
 
-.two-btns .btn:hover{
+.two-btns button:hover{
     background-color: rgb(75, 75, 168);
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     cursor: pointer;
 }
 
@@ -170,4 +173,3 @@ main hr{
     color: gray;
     padding: 12px 0;
 }
-

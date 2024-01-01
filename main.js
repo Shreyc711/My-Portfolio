@@ -3,3 +3,8 @@ var typed = new Typed('#element', {
     typeSpeed: 45,
     loop:true,
   });
+
+
+
+
+ 
